@@ -9,11 +9,7 @@ Rather than talk about myself a whole lot, I'd like to make a list of cool websi
 * https://heroku.com, github's static page hosting is great, and with the option to redirect a domain here, it's the perfect choice for hosting static webpages. But heroku offers something a step up: free nodejs cloud hosted servers interacting, from the database layer to the nodejs server application, or other addons that aren't too terribly priced.
 * https://news.ycombinator.com. Every once in a while, someone introduces something really cool. Other than that, it seems like the gently recurring software circle chatter.
 
-<!--
-**mooreolith/mooreolith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+Answers to Github questions meant to help me get started:
 - 🔭 I’m currently working on ... getting the graph visualization to work. I'm trying a mathier way than usual, and might use a python solver to minimize some of the layout calculation doing things I don't understand. 
 - 🌱 I’m currently learning ... Nothing. I'm reading a Latin American scifi novel for children.
 - 👯 I’m looking to collaborate on ... THe graph. 
