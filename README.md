@@ -8,6 +8,7 @@ Rather than talk about myself a whole lot, I'd like to make a list of cool websi
 * https://developer.mozilla.org (MDN) is a comprehensive, human readable HTML5 reference and tutorial. Look up specific functions, or read about a minimal approach to solving a problem, which you can weave into your own development. 
 * https://heroku.com, github's static page hosting is great, and with the option to redirect a domain here, it's the perfect choice for hosting static webpages. But heroku offers something a step up: free nodejs cloud hosted servers interacting, from the database layer to the nodejs server application, or other addons that aren't too terribly priced.
 * https://news.ycombinator.com. Every once in a while, someone introduces something really cool. Other than that, it seems like the gently recurring software circle chatter.
+* https://www.music-map.com/ is an early data visualization showing point clouds of artists in response to a query artist. Bands mentioned closer together received more similar (nearby) locations on the screen. It's great for finding other bands that might have something in common with a band you already like. 
 
 Answers to Github questions meant to help me get started:
 - 🔭 I’m currently working on ... getting the graph visualization to work. I'm trying a mathier way than usual, and might use a python solver to minimize some of the layout calculation doing things I don't understand. 
