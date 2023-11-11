@@ -1,1 +1,0 @@
-I develop software as a hobby. It's a skill I learned in and after university, almost even graduating. My pet project is a web component featuring a force directed graph visualization. I think looking at abstract layers of our world in 3D graphs would be pretty cool. 
