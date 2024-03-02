@@ -7,4 +7,7 @@ Some of the latest two:
  * [todo-app-docker](https://github.com/mooreolith/todo-app-docker), containerizes the previous todo app
  * [todo-app-indexeddb](https://github.com/mooreolith/todo-app-indexeddb), a web only version of this todo app
 
+Here's a new one: 
+ * [es.ipynb](https://mooreolith.github.io/es.ipynb) is a notebook for browser-side javascript.
+
 Enjoy!
