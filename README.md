@@ -1,5 +1,5 @@
 # Welcome to my Github Page
-My name is Joshua Moore. I live in North Las Vegas, but I'm originally from Germany, and am open to work, after some time away during the pandemic. I write vanilla JavaScript and am begrudgingly learning to switch from AngularJS to AngularIO. AFter dropping out of school, I just kinda kept learning topics, until I one day ended up with my own compiler as an answer to a job interview question. 
+My name is Joshua Moore. I live in North Las Vegas, but I'm originally from Germany. I am open to work. I write vanilla JavaScript, NodeJS, Python, C++,  C# and SQL, which I used to work in, and am begrudgingly learning to switch from AngularJS to AngularIO. AFter dropping out of school, I just kinda kept learning topics, until I one day ended up with my own compiler as an answer to a job interview question. 
 
 This is a lot of work, and my main motivator has been the idea of creating a 3D force directed graph visualization for the browser. Those efforts are scattered across a few other github accounts and partially inaccessible to me now. The latest version is called  <a href="https://github.com/mooreolith/auto-graph">&lt;auto-graph&gt;</a>. This is my most complete version, yet. 
 
