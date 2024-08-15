@@ -6,4 +6,5 @@ This is a lot of work, and my main motivator has been the idea of creating a 3D 
 Another project I'm proud of is <a href="https://mooreolith.github.io/es.ipynb">es.ipynb</a>, which creates browser side javascript notebooks, in a <a href="https://jupyter.org/">Jupyter</a>-like format, freeing me from setting up pages for every client side code experiment. Finally, please take a look at <a href="https://mooreolith.github.io/eight-queens">eight queens</a>, which features commissioned artwork by Zounds Designs.
 
 THanks for stopping by!
-<a href="mailto:mooreolith@gmail.com">mooreolith@gmail.com</a>
+
+~ <a href="mailto:mooreolith@gmail.com">mooreolith@gmail.com</a>
