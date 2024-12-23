@@ -5,4 +5,3 @@ I'm a software developer from Bamberg, Germany. I currently live in the greater 
 
 Some ways to reach me are: 
 * Email: [mooreolith@gmail.com](mailto:mooreolith@gmail.com).
-* Mastodon: [@mooreolith@mastodon.social](https://mastodon.social/@mooreolith)
