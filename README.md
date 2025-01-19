@@ -1,1 +1,3 @@
-Hi, this is Josh Moore. I build webapps. <a href="mailto:mooreolith@gmail.com">mooreolith@gmail.com</a>
+This is the latest (2025) profile of Joshua Moore.
+
+While you're here, feel free to check out [notebook](https://mooreolith.github.io/notebook) and [eight queens](https://mooreolith.github.io/eight-queens).
