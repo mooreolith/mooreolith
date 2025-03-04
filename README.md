@@ -2,7 +2,7 @@ Welcome to this Joshua Moore’s portfolio page. I’m a Las Vegas based softwar
 * [Eight Queens](https://mooreolith.github.io/eight-queens)
 My late father (may he rest in peace) passed down to me his love for chess, and a riddle called the Eight Queens Problem. The aim is to place eight queens (which can move up/down, left/right, and diagonally, you can use 8 pawns) on a chess board so that no queen can capture another. Click the fields to place a queen, click it again, to remove it. Trial and error it, or reason it out. There are multiple solutions.
 
-* [Notbeook](https://mooreolith.github.io/notebook)
+* [Notebook](https://mooreolith.github.io/notebook)
 Born out of the need to conduct small experiments when implementing larger projects, I found myself wanting for a javascript notebook. The Jupyter Notebook which inspired this project deals with server side languages, whereas I specifically wanted something for client side (browser) Javascript. The two following links contain references to two example notebooks. 
   * [Javascript MicroGrad Notebook](https://mooreolith.github.io/notebook/?url=./notebooks/MicroGrad.ipynb)
     MicroGrad is a teaching neural network developed originally by Andrej Karpathy in python. I translated the python to javascript.
