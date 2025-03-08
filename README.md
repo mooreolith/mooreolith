@@ -8,7 +8,7 @@ Born out of the need to conduct small experiments when implementing larger proje
     MicroGrad is a teaching neural network developed originally by Andrej Karpathy in python. I translated the python to javascript.
   * [Golem Population Notebook](https://mooreolith.github.io/notebook/?url=./notebooks/golem-population.ipynb)
     A fictional society of golems, affecting each other’s health by speaking to each other, and reacting to extreme health (0 or 100) by dying or multiplynig. This notebook demonstrates loading an externally hosted library (here vega-lite) and accessing the notebook’s output to append a dynamic data visualization.
-  * [ThreeJS Experiment]
+  * [ThreeJS Experiment](https://mooreolith.github.io/notebook/?url=./notebooks/threejs-experiment.ipynb)
     In this notebook, I load threejs, and append a WebGLRenderer to the cell's output. The notebook provides easily accessible variables to notebook, cell and output. 
 * [Soundtrack](https://mooreolith.github.io/soundtrack)
   Soundtrack is a browser based mp3 player. This program grew out of my frustration with ever so slightly off feature sets in various mp3 players. This is just what I need: A list of mp3 tracks from my hard drive I can play, filtered by artist, album or title. Upload a folder to the app (nothing leaves your browser), wait for the mp3 files to parse, and double click a song to start playback.
