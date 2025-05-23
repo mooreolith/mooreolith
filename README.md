@@ -1,6 +1,6 @@
 # Hi, 
 
-You have found the developer portfolio page of Joshua M. Moore. It's a good thing you came here, too, because https://verticesandedges.net (without all the domain prefixes and folders is currently a construction site. 
+You have found the developer portfolio page of Joshua M. Moore. It's a good thing you came here, too, because https://verticesandedges.net is still under construction.
 
 Some of my more recent projects include
 
