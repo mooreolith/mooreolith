@@ -10,5 +10,4 @@ Some of my more recent projects include
 
 I've been developing Javascript applications since around 2010, first as an unsuccessful freelancer, later at a string of software companies. If you'd like to hire someone who's been out of work since the pandemic started, (or just wanna chat), please feel free to email me at [joshua.moore@verticesandedges.net](mailto:joshua.moore@verticesandedges.net).
 
-Thank you for your time: 
-Joshua M. Moore
+Thank you for your time.
