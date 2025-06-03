@@ -4,7 +4,7 @@ You have found the developer portfolio page of Joshua M. Moore. It's a good thin
 
 Some of my more recent projects include
 
-* [Graph App](https://mooreolith.github.io/graph-app/): Create a dynamic graph visualization using Javascript or GUI. (also [here](https://apps.verticesandedges.net/editor/))
+* [Graph App](https://mooreolith.github.io/graph-editor/): Create a dynamic graph visualization using Javascript or GUI. (also [here](https://apps.verticesandedges.net/graph-editor/))
 * [Notebook](https://mooreolith.github.io/notebook/): A client-side Javascript Notebook. (also [here](https://apps.verticesandedges.net/notebook/))
 * [Eight Queens Riddle](https://mooreolith.github.io/eight-queens/): Place eight queens on an empty chess board so that no two pieces threaten each other. (also [here](https://apps.verticesandedges.net/eight-queens/))
 
