@@ -1,13 +1,9 @@
 # Hi, 
 
-You have found the developer portfolio page of Joshua M. Moore. It's a good thing you came here, too, because https://verticesandedges.net is still under construction.
+You have found the github developer page of one of the many Joshua Moores. This one lives in North Las Vegas, and is the proud owner of [verticesandedges.net](https://verticesandedges.net). 
 
-Some of my more recent projects include
+* [Graph Editor](https://verticesandedges.net/graph-editor/): Create a dynamic graph visualization controlled by Javascript notebook or GUI
+* [Notebook](https://apps.verticesandedges.net/notebook/): A client-side Javascript Notebook. (The one also used in graph-editor)
+* [Eight Queens Riddle](https://apps.verticesandedges.net/eight-queens/): Place eight queens on an empty chess board so that no two pieces threaten each other.
 
-* [Graph Editor](https://mooreolith.github.io/graph-editor/): Create a dynamic graph visualization using Javascript or GUI. (also [here](https://apps.verticesandedges.net/graph-editor/))
-* [Notebook](https://mooreolith.github.io/notebook/): A client-side Javascript Notebook. (also [here](https://apps.verticesandedges.net/notebook/))
-* [Eight Queens Riddle](https://mooreolith.github.io/eight-queens/): Place eight queens on an empty chess board so that no two pieces threaten each other. (also [here](https://apps.verticesandedges.net/eight-queens/))
-
-I've been developing Javascript applications since around 2010, first as an unsuccessful freelancer, later at a string of software companies. If you'd like to hire someone who's been out of work since the pandemic started, (or just wanna chat), please feel free to email me at [joshua.moore@verticesandedges.net](mailto:joshua.moore@verticesandedges.net).
-
-Thank you for your time.
+I am in fact looking for work, so if you are looking to hire, please feel free to contact me at [joshua.moore@verticesandedges.net](mailto:joshua.moore@verticesandedges.net).
