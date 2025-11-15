@@ -2,7 +2,7 @@
 
 You have found the github developer page of one of the many Joshua Moores. This one lives in North Las Vegas, and is the proud owner of [verticesandedges.net](https://verticesandedges.net). 
 
-* [Graph Editor](https://verticesandedges.net/graph-editor/): Create a dynamic graph visualization controlled by Javascript notebook or GUI
+* [Graph Editor](https://verticesandedges.net/): Create a dynamic graph visualization controlled by Javascript notebook or GUI
 * [Notebook](https://apps.verticesandedges.net/notebook/): A client-side Javascript Notebook. (The one also used in graph-editor)
 * [Eight Queens Riddle](https://apps.verticesandedges.net/eight-queens/): Place eight queens on an empty chess board so that no two pieces threaten each other.
 
